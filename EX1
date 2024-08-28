@@ -1,3 +1,4 @@
+//Exiba as diagonais principal e secundária de uma matriz 4x4.
 int main(){
 
 int matriz[4][4];
