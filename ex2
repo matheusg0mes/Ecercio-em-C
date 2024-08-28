@@ -1,3 +1,4 @@
+//Obtenha a média dos valores da diagonal principal da matriz acima.
 #include <stdio.h>
 
 int main(){
