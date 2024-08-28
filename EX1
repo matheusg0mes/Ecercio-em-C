@@ -4,7 +4,7 @@ int matriz[4][4];
 int n=4;
 for(int i = 0;i <4; i ++){
     for(int j = 0; j< 4;j++){
-        printf("Digite  o valor da matriz");
+        printf("Digite  o valor da matriz ");
         scanf("%d",&matriz[i][j]);
         
     }
